@@ -1,5 +1,5 @@
-## Hi there 👋
-I'm not too active on here so dont expect anything big.
+currently working on my website
+the code is crap but it works.
 <!--
 **C01-9/C01-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

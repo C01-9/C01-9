@@ -1,5 +1,5 @@
-currently working on my website
-the code is crap but it works.
+Currently working on my website.
+The code is crap, but it works.
 <!--
 **C01-9/C01-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
